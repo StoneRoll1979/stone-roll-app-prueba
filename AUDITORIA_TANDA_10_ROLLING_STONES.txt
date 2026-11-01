@@ -1,0 +1,32 @@
+STONE ROLL — AUDITORÍA TANDA 10: THE ROLLING STONES
+
+Carpetas procesadas: 19
+Ediciones agregadas: 19
+Fotos agregadas: 78
+Videos ignorados: 1
+Archivos photothumb.db ignorados: sí
+Duplicados detectados contra el catálogo previo: 0 por título/edición reconocible.
+
+EDICIONES AGREGADAS:
+- THE ROLLING STONES — ED SULLIVAN SHOWS (3 fotos)
+- THE ROLLING STONES — MADE IN JAPAN (3 fotos)
+- THE ROLLING STONES — LOS ANGELES FORUM 1975 (4 fotos)
+- THE ROLLING STONES — OLE POINT 2016 (4 fotos)
+- THE ROLLING STONES — VOODOO LOUNGE TOUR: BUENOS AIRES 1995 (5 fotos)
+- THE ROLLING STONES — SHATTERED IN BUENOS AIRES 2006 (4 fotos)
+- THE ROLLING STONES — AT THE MAX (4 fotos)
+- THE ROLLING STONES — PSYCHEDELIC POP (5 fotos)
+- THE ROLLING STONES — ULTIMATE FLASHPOINT: 1989–1990 (5 fotos)
+- THE ROLLING STONES — BRUSSELS AFFAIR 1973 (5 fotos)
+- THE ROLLING STONES — AUX ABATTOIRS, PARIS 1976 (4 fotos)
+- THE ROLLING STONES — PALAIS ROYAL, TORONTO 2002 (5 fotos)
+- THE ROLLING STONES — FOUR FLICKS: PARIS 2003 (3 fotos)
+- THE ROLLING STONES — BRIDGES TO ARGENTINA 1998 (4 fotos)
+- THE ROLLING STONES — FORT WORTH, TEXAS 1997 (5 fotos)
+- THE ROLLING STONES — I GOT THE BLUES (4 fotos)
+- THE ROLLING STONES — PHILADELPHIA REHEARSALS 1989, VOL. 1 (3 fotos)
+- THE ROLLING STONES — VOODOO LOUNGE TOUR 1994–1995 (4 fotos)
+- THE ROLLING STONES — WEMBLEY STADIUM 1999 (4 fotos)
+
+Total de ediciones del catálogo tras la actualización: 103
+Nota: la V4.1 contiene 84 productos; los identificadores están salteados y el último ID es item-86. Esta actualización agrega 19 productos y deja 103 ediciones en total.

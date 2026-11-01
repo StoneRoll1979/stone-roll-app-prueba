@@ -1,0 +1,28 @@
+STONE ROLL — CATÁLOGO V4.1 CORREGIDO
+===================================
+Abrí index.html con Chrome o cualquier navegador moderno.
+
+Incluye:
+- 84 ediciones y 343 fotografías de producto.
+- Portadas de categorías propias proporcionadas por Stone Roll: Rock Nacional y Rock Internacional.
+- Búsqueda por artista, banda, título de disco o recital.
+- Categorías con filtros y opción «Ver todo el catálogo».
+- Galerías de fotos y consultas por WhatsApp con artista y título del disco elegido, también desde la galería.
+- Sin precios publicados, carrito ni pagos online.
+
+Correcciones de esta versión:
+- Quitadas las entradas duplicadas de Rata Blanca — Malvinas Argentinas 2013 Vol. 1 y Vol. 2; se conserva una entrada de cada volumen.
+- Títulos de varias ediciones de U2 ampliados para que sean más claros en el catálogo.
+- Videos y archivos auxiliares omitidos.
+
+El catálogo funciona localmente; todavía no está publicado en Internet.
+Conservá este ZIP como respaldo y no borres las versiones anteriores.
+
+
+ACTUALIZACIÓN V4.2 — TANDA 10 THE ROLLING STONES
+- Ediciones en el catálogo: 103
+- Fotos de producto agregadas en esta tanda: 78
+- Carpetas de la tanda 10: 19
+- Videos ignorados: 1 (The Rolling Stones Made In Japan)
+- Archivos photothumb.db ignorados.
+- Diseño, navegación por categorías y consulta por WhatsApp conservados.

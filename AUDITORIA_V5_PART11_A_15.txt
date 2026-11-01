@@ -1,0 +1,40 @@
+STONE ROLL — AUDITORÍA DE INCORPORACIÓN V5
+Base: V4.2 — 103 ediciones / 421 fotografías
+Tandas procesadas: PART.11 a PART.15
+
+Ediciones nuevas incorporadas: 26
+Fotografías nuevas incorporadas: 115
+
+Detalle:
+item-106 | La Renga | LA RENGA — ALEJADO DE LA RED | 3 fotos
+item-107 | La Renga | LA RENGA — EUROPA 2025 | 5 fotos
+item-108 | La Renga | LA RENGA — EN EL OJO DEL HURACÁN | 4 fotos
+item-109 | Hilda Lizarazu | HILDA LIZARAZU — HILDA CANTA CHARLY 2024 | 3 fotos
+item-110 | Charly García | CHARLY GARCÍA — LO QUE VENDRÁ (SOUNDTRACK) | 4 fotos
+item-111 | Charly García | CHARLY GARCÍA — MÚSICA EN EL SALÓN BLANCO | 4 fotos
+item-112 | Charly García | CHARLY GARCÍA — EN VIVO EN OLIVOS | 5 fotos
+item-113 | Charly García | CHARLY GARCÍA — LÍNEAS PARALELAS, TEATRO COLÓN | 4 fotos
+item-114 | Divididos | DIVIDIDOS — VÉLEZ 35 AÑOS | 5 fotos
+item-115 | Divididos | DIVIDIDOS — COSQUÍN ROCK 2026 | 5 fotos
+item-116 | Los Piojos | LOS PIOJOS — DESDE LEJOS NO SE VE | 4 fotos
+item-117 | Los Piojos | LOS PIOJOS — FANTASMAS PELEÁNDOLE AL VIENTO | 4 fotos
+item-118 | Los Piojos | LOS PIOJOS — RIVER 2009 | 4 fotos
+item-119 | Los Piojos | LOS PIOJOS — QUILMES ROCK 2025 | 4 fotos
+item-120 | Los Piojos | LOS PIOJOS — RIVER 2025 | 4 fotos
+item-121 | Los Piojos | LOS PIOJOS — BUENOS AIRES / LA PLATA 2024 | 4 fotos
+item-122 | Los Piojos | LOS PIOJOS — LUNA PARK 2002 | 4 fotos
+item-123 | Phil Collins | PHIL COLLINS — SERIOUS LIVE HITS! (TRIPLE) | 6 fotos
+item-124 | Phil Collins | PHIL COLLINS — FINALLY... THE FIRST FAREWELL TOUR | 5 fotos
+item-125 | Phil Collins | PHIL COLLINS — SYDNEY LIVE 1990 | 6 fotos
+item-126 | Phil Collins | PHIL COLLINS — ARGENTINA 1995 | 5 fotos
+item-127 | Phil Collins | PHIL COLLINS — LIVE AID 1985 | 5 fotos
+item-128 | Phil Collins | PHIL COLLINS — LIVE AND LOOSE IN PARIS | 4 fotos
+item-129 | Phil Collins | PHIL COLLINS — UNPLUGGED 1994 | 4 fotos
+item-130 | Phil Collins | PHIL COLLINS — OTHER SIDES | 5 fotos
+item-131 | Phil Collins | PHIL COLLINS — REMIXED SIDES | 5 fotos
+
+Duplicado omitido: CHARLY GARCÍA — FESTIVAL ARGENTINO MIAMI 2002; ya existe CHARLY GARCIA MIAMI 2002 (item-19) en V4.2.
+Archivos auxiliares photothumb.db omitidos. Videos: no se incorporaron.
+La carpeta Originals de LA RENGA — EUROPA 2025 se conservó como una fotografía adicional de esa misma edición.
+
+TOTAL V5: 129 ediciones / 536 fotografías.
